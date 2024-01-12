@@ -193,7 +193,7 @@ function get-fsDeviceKpi {
 
 
 
-$xsrfToken = connect-fs -username "michal.pipala" -password "12p34567"
+$xsrfToken = connect-fs -username "michal.pipala" -password "a"
 $plant = Get-fsPlantList -xsrfToken $xsrfToken
 $plantCode = $plant.list.plantcode
 $plandID = "36998658"
