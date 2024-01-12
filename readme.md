@@ -1,7 +1,7 @@
 Manual: Communicate with FusionSolar through an openAPI Account (huawei.com)
 https://github.com/BlazejosP/huawei-sun2000-API-CLI/files/11539967/iMaster.NetEco.V600R023C00.Northbound.Interface.Reference-V6.SmartPVMS.pdf
 iMaster NetEco V600R023C00 Northbound Interface Reference-V6(SmartPVMS) - Huawei
-
+https://support.huawei.com/enterprise/en/doc/EDOC1100261860/2630ae1b/device-data-interfaces
 
 #Postman
 ##Authentication:
